@@ -1,0 +1,34 @@
+Pertanyaan Perpus : 
+
+1. 	Gimana sistem yang ada?* 
+2. 	Ada Berapa Penjaga nya?
+3. 	Apa Penjaga nya ganti-ganti?
+4. 	Apa ada penambahan buku baru?* 
+5. 	Apa Siswa yang datang ke perpus di data?*
+	5.1	Apa siswa harus mendaftar terlebih dahulu?*
+	5.2 Bagaimana cara pendataan siswa yang berkunjung ke perpus?*
+6. 	Bagaimana cara siswa meminjam buku?*
+7. 	Berapa jumlah buku maksimum yang dipinjam?*
+8. 	Berapa lama waktu maksimum peminjaman?*
+9.	Bagaimana cara murid mengecek daftar buku yang tersedia?*
+10. Bagaimana cara pegawai tau buku yang dipinjam?*
+11. Bagaiamana cara murid mengembalikan buku?*
+12. Bagaimana perhitungan denda?*
+
+
+
+Sistem yang Diajukan : 
+
+Platform 	: Website 
+Prog Lang	: PHP   	
+Akses 		: Pegawai
+Aksi 		: 
+	1. Tambah data buku
+	2. Pemijaman buku
+	3. Pengembalian Buku
+	4. Mengecek Daftar Buku
+	5. Penghitungan total Denda otomatis
+	6. Daftar Siswa Baru
+	
+Keperluan Data : 
+
